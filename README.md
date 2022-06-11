@@ -7,10 +7,6 @@
 
 - 💬 I'm expert in **react, vue, php, node, ruby on rails**
 
-- ⚡ I am on youtube [https://bit.ly/3sC3PgC](https://bit.ly/3sC3PgC)
-
-- 🌱 I’m currently learning **django**
-
 - ⚡ Fun Fact **I just started using public repositories to show off on Github**
 
 
